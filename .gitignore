@@ -1,3 +1,6 @@
 /build
 /.idea
 /.gradle
+/out/production/classes/com/jesse/study/springboot
+/out/test/classes/com/jesse/study/springboot
+/out/production/resources

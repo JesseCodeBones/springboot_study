@@ -1,2 +1,13 @@
 server:
   port : 8090
+
+myName: "blablabla"
+logging:
+  file:
+    path: "/var/log"
+
+
+spring:
+  thymeleaf:
+    prefix:
+      classpath: /templates
